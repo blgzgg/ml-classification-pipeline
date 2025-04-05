@@ -1,4 +1,4 @@
-# ML Classification Pipeline
+# Machine Learning Classification Pipeline
 
 This project is a two-part machine learning pipeline demonstrating the use of both tabular and image data for classification tasks.
 
