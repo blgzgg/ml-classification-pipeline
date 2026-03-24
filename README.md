@@ -3,9 +3,9 @@
 This project is a two-part machine learning pipeline demonstrating the use of both tabular and image data for classification tasks.
 
 Part 1: E-Commerce Revenue Prediction
-- Dataset: Preprocessed `shopping.csv` file representing user behavior on an e-commerce site.
+- Dataset: Preprocessed shopping.csv file representing user behavior on an e-commerce site.
 - Goals:
-  - Predict whether a user will generate revenue (`Revenue` column).
+  - Predict whether a user will generate revenue.
   - Compare performance of custom linear regression (with and without regularization) and a deep neural network.
 - Techniques:
   - Data normalization: Min-Max, Z-score, and Mean Normalization.
